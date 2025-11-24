@@ -1,16 +1,26 @@
-# React + Vite
+# 🏥 Clínica Vida+ - Website Institucional
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📋 Descrição
 
-Currently, two official plugins are available:
+Site institucional moderno e responsivo desenvolvido para a Clínica Vida+, oferecendo uma experiência completa e profissional para pacientes que buscam informações sobre serviços médicos, equipe e agendamento de consultas.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+[Visualizar Projeto](https://clinica-medica-vida.vercel.app/)
 
-## React Compiler
+## 🚀 Tecnologias
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React.js** - Biblioteca JavaScript para construção da interface
+- **Tailwind CSS** - Framework CSS para estilização
+- **Lucide React** - Biblioteca de ícones moderna
+- **JavaScript ES6+** - Linguagem de programação
 
-## Expanding the ESLint configuration
+## ✨ Funcionalidades
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **🩺 Modal Interativo de Especialidades** - Ao clicar em uma especialidade, abre um modal com informações detalhadas, profissional responsável e lista de atendimentos
+- **✅ Validação Completa de Formulário** - Sistema de validação em tempo real com feedback visual e restrições inteligentes (datas passadas bloqueadas)
+- **📱 Design Totalmente Responsivo** - Interface adaptável que funciona perfeitamente em smartphones, tablets e desktops
+- **⭐ Apresentação da Equipe Médica** - Cards profissionais com fotos, CRM, experiência e avaliações dos médicos
+- **📅 Agendamento Online** - Formulário completo para marcar consultas com seleção de especialidade, data e horário
+
+## 🎨 Preview
+<img width="1423" height="786" alt="image" src="https://github.com/user-attachments/assets/a4e79291-7d63-40a0-82f9-5e334f96ebf0" />
+
